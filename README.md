@@ -7,7 +7,7 @@ This framework gets a little bit tricky when you want to work with promises and 
 
 this is an example of how you can use this code 
 
-this is a link of issue that this matter was discussed
+this is a link to the issue that this matter was discussed
 
 GitHub : https://github.com/Automattic/mongoose/issues/7367
 
