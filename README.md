@@ -9,8 +9,8 @@ this is an example of how you can use this code
 
 this is a link to the issue that this matter was discussed
 
-GitHub : https://github.com/Automattic/mongoose/issues/7367
+[GitHub](https://github.com/Automattic/mongoose/issues/7367)
 
-Youtube : https://youtu.be/vuakR_SmcAw
+[Youtube](https://youtu.be/vuakR_SmcAw)
 
-Replit : https://replit.com/@farbodesham/Mochajs-Test-Automation
+[Replit](https://replit.com/@farbodesham/Mochajs-Test-Automation)
